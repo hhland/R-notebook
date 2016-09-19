@@ -1,0 +1,55 @@
+physician identification number,visit code,specialty code,date of visit,number referrals 3 mnths prior 2 visit,number referrals 2 mnths prior 2 visit,number referrals 1 mnth prior 2 visit,number referrals 1 mnth after visit,number referrals 2 mnths after visit,number referrals 3 mnths after visit,average # referrals prior 2 visit,# refs 1 mnth after minus average prior,# refs 2 mnth after minus average prior,# refs 3 mnth after minus average prior,# refs 1 mnth after minus # 3 mths prior,# refs 2 mnth after minus # 3 mths prior,# refs 3 mnth after minus # 3 mths prior
+2,physician,family prac,13087,0,0,0,0,1,0,0,0,1,0,0,1,0
+4,physician,family prac,13083,0,0,3,0,1,1,1,-1,0,0,0,1,1
+6,physician,oncologist,13079,1,0,0,1,0,0,0.3333333333,0.6666666667,-0.333333333,-0.333333333,0,-1,-1
+7,physician,family prac,13075,3,0,1,0,0,0,1.3333333333,-1.333333333,-1.333333333,-1.333333333,-3,-3,-3
+8,physician,oncologist,13086,1,2,2,1,0,2,1.6666666667,-0.666666667,-1.666666667,0.3333333333,0,-1,1
+10,physician,family prac,13095,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,physician,oncologist,13061,7,6,4,1,4,6,5.6666666667,-4.666666667,-1.666666667,0.3333333333,-6,-3,-1
+14,physician,oncologist,13086,2,0,0,3,1,1,0.6666666667,2.3333333333,0.3333333333,0.3333333333,1,-1,-1
+15,physician,internal med,13097,0,0,0,1,1,1,0,1,1,1,1,1,1
+16,physician,oncologist,13086,4,1,4,3,4,5,3,0,1,2,-1,0,1
+18,physician,internal med,13065,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,physician,oncologist,13087,0,0,2,0,0,0,0.6666666667,-0.666666667,-0.666666667,-0.666666667,0,0,0
+23,physician,oncologist,13086,0,0,1,0,0,0,0.3333333333,-0.333333333,-0.333333333,-0.333333333,0,0,0
+24,physician,internal med,13088,0,0,0,0,1,1,0,0,1,1,0,1,1
+26,physician,oncologist,13087,7,2,4,4,1,0,4.3333333333,-0.333333333,-3.333333333,-4.333333333,-3,-6,-7
+27,physician,oncologist,13067,2,2,3,4,2,3,2.3333333333,1.6666666667,-0.333333333,0.6666666667,2,0,1
+28,physician,internal med,13090,0,0,0,0,0,1,0,0,0,1,0,0,1
+29,physician,oncologist,13086,2,0,2,1,3,2,1.3333333333,-0.333333333,1.6666666667,0.6666666667,-1,1,0
+30,physician,family prac,13075,0,0,0,1,0,0,0,1,0,0,1,0,0
+31,physician,family prac,13087,0,1,1,1,0,1,0.6666666667,0.3333333333,-0.666666667,0.3333333333,1,0,1
+32,physician,internal med,13090,0,0,0,0,0,1,0,0,0,1,0,0,1
+33,physician,internal med,13059,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,physician,internal med,13059,0,0,0,0,1,0,0,0,1,0,0,1,0
+35,physician,internal med,13090,0,0,0,0,0,2,0,0,0,2,0,0,2
+36,physician,oncologist,13068,6,1,6,1,0,4,4.3333333333,-3.333333333,-4.333333333,-0.333333333,-5,-6,-2
+39,physician,oncologist,13087,0,1,1,5,0,1,0.6666666667,4.3333333333,-0.666666667,0.3333333333,5,0,1
+42,physician,family prac,13076,0,0,0,1,0,0,0,1,0,0,1,0,0
+44,physician,family prac,13088,1,1,0,0,0,0,0.6666666667,-0.666666667,-0.666666667,-0.666666667,-1,-1,-1
+45,physician,family prac,13081,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,physician,oncologist,13061,6,6,7,8,11,4,6.3333333333,1.6666666667,4.6666666667,-2.333333333,2,5,-2
+48,physician,family prac,13074,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,physician,oncologist,13067,4,2,2,3,2,4,2.6666666667,0.3333333333,-0.666666667,1.3333333333,-1,-2,0
+50,physician,internal med,13076,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,physician,internal med,13076,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,physician,family prac,13086,0,0,1,0,0,0,0.3333333333,-0.333333333,-0.333333333,-0.333333333,0,0,0
+55,physician,internal med,13095,0,0,0,1,0,0,0,1,0,0,1,0,0
+56,physician,family prac,13075,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,physician,oncologist,13069,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,physician,oncologist,13107,0,2,1,1,2,1,1,0,1,0,1,2,1
+62,physician,internal med,13097,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,physician,oncologist,13068,3,2,2,3,3,3,2.3333333333,0.6666666667,0.6666666667,0.6666666667,0,0,0
+3,staff only,oncologist,13069,0,1,0,0,0,0,0.3333333333,-0.333333333,-0.333333333,-0.333333333,0,0,0
+5,staff only,family prac,13074,2,4,1,2,2,2,2.3333333333,-0.333333333,-0.333333333,-0.333333333,0,0,0
+9,staff only,internal med,13073,1,0,1,3,0,3,0.6666666667,2.3333333333,-0.666666667,2.3333333333,2,-1,2
+11,staff only,family prac,13081,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,staff only,oncologist,13087,3,4,1,1,5,8,2.6666666667,-1.666666667,2.3333333333,5.3333333333,-2,2,5
+17,staff only,family prac,13087,0,1,0,0,1,0,0.3333333333,-0.333333333,0.6666666667,-0.333333333,0,1,0
+19,staff only,family prac,13081,0,0,1,0,1,2,0.3333333333,-0.333333333,0.6666666667,1.6666666667,0,1,2
+21,staff only,internal med,13065,0,0,0,1,0,0,0,1,0,0,1,0,0
+37,staff only,family prac,13073,0,0,0,0,1,0,0,0,1,0,0,1,0
+40,staff only,family prac,13081,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,staff only,internal med,13115,0,1,1,0,0,1,0.6666666667,-0.666666667,-0.666666667,0.3333333333,0,0,1
+53,staff only,internal med,13067,0,1,0,0,0,0,0.3333333333,-0.333333333,-0.333333333,-0.333333333,0,0,0
+58,staff only,family prac,13093,0,0,0,1,0,0,0,1,0,0,1,0,0

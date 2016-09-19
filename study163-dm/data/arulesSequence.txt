@@ -1,0 +1,19 @@
+    items            support 
+  1 <{item=CKING}> 0.8578401 
+  2 <{item=SVG}>   0.6186960 
+  3 <{item=CKING},  
+     {item=SVG}>   0.5417345 
+  4 <{item=ATM}>   0.3845576 
+  5 <{item=CKING},  
+     {item=ATM}>   0.3619071 
+  6 <{item=SVG},    
+     {item=ATM}>   0.2569140 
+  7 <{item=CKING},  
+     {item=SVG},    
+     {item=ATM}>   0.2485296 
+  8 <{item=CD}>    0.2452759 
+  9 <{item=ATM},    
+     {item=ATM}>   0.2138656 
+ 10 <{item=CKING},  
+     {item=CD}>    0.2098611 
+ 
